@@ -4,9 +4,9 @@
 - I’m looking to collaborate on ...
 - How to reach me @heypratha (insta id)
 -  Pronouns: she/her
-- Fun fact: I can listen to a slightest sound around me
-
-<!---
-parvi0/parvi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+python
+full stack developer
+Microsoft 
+digital marketing
+HTML and CSS
+android

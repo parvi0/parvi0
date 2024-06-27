@@ -4,9 +4,9 @@
 - I’m looking to collaborate on ...
 - How to reach me @heypratha (insta id)
 -  Pronouns: she/her
-python
-full stack developer
-Microsoft 
-digital marketing
-HTML and CSS
-android
+- python
+- full stack developer
+- Microsoft 
+- digital marketing
+- HTML and CSS
+-android
